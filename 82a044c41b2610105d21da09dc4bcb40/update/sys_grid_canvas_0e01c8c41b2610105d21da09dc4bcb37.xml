@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA System Administratio - New Tab">4e01c8c41b2610105d21da09dc4bcb36</legacy_page>
+        <name>PA System Administratio - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2020-08-05 13:51:05</sys_created_on>
+        <sys_id>0e01c8c41b2610105d21da09dc4bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA System Administratio - New Tab</sys_name>
+        <sys_package display_value="ACLinheritDemo" source="x_snc_aclinheritde">82a044c41b2610105d21da09dc4bcb40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACLinheritDemo">82a044c41b2610105d21da09dc4bcb40</sys_scope>
+        <sys_update_name>sys_grid_canvas_0e01c8c41b2610105d21da09dc4bcb37</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2020-08-05 13:51:05</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

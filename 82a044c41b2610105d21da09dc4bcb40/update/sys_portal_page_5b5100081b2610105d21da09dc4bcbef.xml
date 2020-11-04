@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-11-04 23:12:10">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2020-08-05 13:52:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5b5100081b2610105d21da09dc4bcbef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA ACLinheritDemo - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ACLinheritDemo" source="x_snc_aclinheritde">82a044c41b2610105d21da09dc4bcb40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACLinheritDemo">82a044c41b2610105d21da09dc4bcb40</sys_scope>
+        <sys_update_name>sys_portal_page_5b5100081b2610105d21da09dc4bcbef</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2020-08-05 13:52:32</sys_updated_on>
+        <title>PA ACLinheritDemo - New Tab</title>
+        <user/>
+        <view>pa_aclinheritdemo_-_new_tab</view>
+    </sys_portal_page>
+</record_update>
